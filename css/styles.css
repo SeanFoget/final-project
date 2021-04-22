@@ -46,13 +46,26 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
+/* my stlye */
+h2{
+    font-size: 54px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+h3{
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+h4{
+    font-weight: bold;
+}
 .container-1{
     max-width: 1200px;
     margin: 0 auto;
 }
 .container-2{
-    max-width: 1150px;
+    max-width: 1000px;
     margin: auto;
 }
 /* header */
